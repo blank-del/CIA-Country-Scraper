@@ -1,0 +1,672 @@
+country_cca3|border_country|border_length
+Afghanistan|China|91
+Afghanistan|Iran|921
+Afghanistan|Pakistan|2670
+Afghanistan|Tajikistan|1357
+Afghanistan|Turenistan|804
+Afghanistan|Uzbekistan|144
+Akrotiri|Cyprus|48
+Albania|Greece|212
+Albania|Kosovo|112
+Albania|North Macedonia|181
+Albania|Montenegro|186
+Algeria|Libya|989
+Algeria|Mali|1359
+Algeria|Mauritania|460
+Algeria|Morocco|1941
+Algeria|Niger|951
+Algeria|Tunisia|1034
+Andorra|France|55
+Andorra|Spain|63
+Angola|Democratic Republic of the Congo|2646
+Angola|Republic of the Congo|231
+Angola|Namibia|1427
+Angola|Zambia|1065
+Argentina|Bolivia|942
+Argentina|Brazil|1263
+Argentina|Chile|6691
+Argentina|Paraguay|2531
+Argentina|Uruguay|541
+Armenia|Azerbaijan|996
+Armenia|Georgia|219
+Armenia|Iran|44
+Armenia|Turkey|311
+Austria|Czech Republic|402
+Austria|Germany|801
+Austria|Hungary|321
+Austria|Italy|404
+Austria|Liechtenstein|34
+Austria|Slovakia|105
+Austria|Slovenia|299
+Austria|Switzerland|158
+Azerbaijan|Armenia|996
+Azerbaijan|Georgia|428
+Azerbaijan|Iran|689
+Azerbaijan|Russia|338
+Azerbaijan|Turkey|17
+Bangladesh|Burma|271
+Bangladesh|India|4142
+Belarus|Latvia|161
+Belarus|Lithuania|640
+Belarus|Poland|375
+Belarus|Russia|1312
+Belarus|Ukraine|1111
+Belgium|France|556
+Belgium|Germany|133
+Belgium|Luxembourg|130
+Belgium|Netherlands|478
+Belize|Guatemala|266
+Belize|Mexico|276
+Benin|Burkina Faso|386
+Benin|Niger|277
+Benin|Nigeria|809
+Benin|Togo|651
+Bhutan|China|477
+Bhutan|India|659
+Bolivia|Argentina|942
+Bolivia|Brazil|3403
+Bolivia|Chile|942
+Bolivia|Paraguay|753
+Bolivia|Peru|1212
+Bosnia and Herzegovina|Croatia|956
+Bosnia and Herzegovina|Montenegro|242
+Bosnia and Herzegovina|Serbia|345
+Botswana|Namibia|1544
+Botswana|South Africa|1969
+Botswana|Zambia|0.15
+Botswana|Zimbabwe|834
+Brazil|Argentina|1263
+Brazil|Bolivia|3403
+Brazil|Colombia|1790
+Brazil|French Guiana|649
+Brazil|Guyana|1308
+Brazil|Paraguay|1371
+Brazil|Peru|2659
+Brazil|Suriname|515
+Brazil|Uruguay|1050
+Brazil|Venezuela|2137
+Brunei|Malaysia|266
+Bulgaria|Greece|472
+Bulgaria|Macedonia|162
+Bulgaria|Romania|605
+Bulgaria|Serbia|344
+Bulgaria|Turkey|223
+Burkina Faso|Benin|386
+Burkina Faso|Cote d'Ivoire|545
+Burkina Faso|Ghana|602
+Burkina Faso|Mali|1325
+Burkina Faso|Niger|622
+Burkina Faso|Togo|131
+Burma|Bangladesh|271
+Burma|China|2129
+Burma|India|1468
+Burma|Laos|238
+Burma|Thailand|2416
+Burundi|Democratic Republic of the Congo|236
+Burundi|Rwanda|315
+Burundi|Tanzania|589
+Cambodia|Laos|555
+Cambodia|Thailand|817
+Cambodia|Vietnam|1158
+Cameroon|Central African Republic|901
+Cameroon|Chad|1116
+Cameroon|Republic of the Congo|494
+Cameroon|Equatorial Guinea|183
+Cameroon|Gabon|349
+Cameroon|Nigeria|1975
+Canada|US|8891
+Canada|Denmark (Greenland)|1.3
+Central African Republic|Cameroon|901
+Central African Republic|Chad|1556
+Central African Republic|Democratic Republic of the Congo|1747
+Central African Republic|Republic of the Congo|487
+Central African Republic|South Sudan|1055
+Central African Republic|Sudan|174
+Chad|Cameroon|1116
+Chad|Central African Republic|1556
+Chad|Libya|1050
+Chad|Niger|1196
+Chad|Nigeria|85
+Chad|Sudan|1403
+Chile|Argentina|6691
+Chile|Bolivia|942
+Chile|Peru|168
+China|Afghanistan|91
+China|Bhutan|477
+China|Burma|2129
+China|India|2659
+China|Kazakhstan|1765
+China|North Korea|1352
+China|Kyrgyzstan|1063
+China|Laos|475
+China|Mongolia|4630
+China|Nepal|1389
+China|Pakistan|438
+China|Russia (northeast)|4133
+China|Russia (northwest)|46
+China|Tajikistan|477
+China|Vietnam|1297
+Colombia|Brazil|1790
+Colombia|Ecuador|708
+Colombia|Panama|339
+Colombia|Peru|1494
+Colombia|Venezuela|2341
+Congo, Democratic Republic of the|Angola|2646
+Congo, Democratic Republic of the|Burundi|236
+Congo, Democratic Republic of the|Central African Republic|1747
+Congo, Democratic Republic of the|Republic of the Congo|1775
+Congo, Democratic Republic of the|Rwanda|221
+Congo, Democratic Republic of the|South Sudan|714
+Congo, Democratic Republic of the|Tanzania|479
+Congo, Democratic Republic of the|Uganda|877
+Congo, Democratic Republic of the|Zambia|2332
+Congo, Republic of the|Angola|231
+Congo, Republic of the|Cameroon|494
+Congo, Republic of the|Central African Republic|487
+Congo, Republic of the|Democratic Republic of the Congo|1775
+Congo, Republic of the|Gabon|2567
+Costa Rica|Nicaragua|313
+Costa Rica|Panama|348
+Cote d'Ivoire|Burkina Faso|545
+Cote d'Ivoire|Ghana|720
+Cote d'Ivoire|Guinea|816
+Cote d'Ivoire|Liberia|778
+Cote d'Ivoire|Mali|599
+Croatia|Bosnia and Herzegovina|956
+Croatia|Hungary|348
+Croatia|Montenegro|19
+Croatia|Serbia|314
+Croatia|Slovenia|600
+Cuba|US Naval Base at Guantanamo Bay|28.5
+Cyprus|Akrotiri|48
+Cyprus|Dhekelia|108
+Czechia|Austria|402
+Czechia|Germany|704
+Czechia|Poland|699
+Czechia|Slovakia|241
+Denmark|Germany|140
+Denmark|Canada|1.3
+Dhekelia|Cyprus|108
+Djibouti|Eritrea|125
+Djibouti|Ethiopia|342
+Djibouti|Somalia|61
+Dominican Republic|Haiti|376
+Ecuador|Colombia|708
+Ecuador|Peru|1529
+Egypt|Gaza Strip|13
+Egypt|Israel|208
+Egypt|Libya|1115
+Egypt|Sudan|1276
+El Salvador|Guatemala|199
+El Salvador|Honduras|391
+Equatorial Guinea|Cameroon|183
+Equatorial Guinea|Gabon|345
+Eritrea|Djibouti|125
+Eritrea|Ethiopia|1033
+Eritrea|Sudan|682
+Estonia|Latvia|333
+Estonia|Russia|324
+Eswatini|Mozambique|108
+Eswatini|South Africa|438
+Ethiopia|Djibouti|342
+Ethiopia|Eritrea|1033
+Ethiopia|Kenya|867
+Ethiopia|Somalia|1640
+Ethiopia|South Sudan|1299
+Ethiopia|Sudan|744
+European Union|Albania|212
+European Union|Andorra|118
+European Union|Belarus|1176
+European Union|Bosnia and Herzegovina|956
+European Union|Holy See|3
+European Union|Liechtenstein|34
+European Union|North Macedonia|396
+European Union|Moldova|683
+European Union|Monaco|6
+European Union|Montenegro|19
+European Union|Norway|2375
+European Union|Russia|2435
+European Union|San Marino|37
+European Union|Serbia|1353
+European Union|Switzerland|1729
+European Union|Turkey|415
+European Union|United Kingdom|499
+European Union|Ukraine|1324
+Finland|Norway|709
+Finland|Sweden|545
+Finland|Russia|1309
+France|Andorra|55
+France|Belgium|556
+France|Germany|418
+France|Italy|476
+France|Luxembourg|69
+France|Monaco|6
+France|Spain|646
+France|Switzerland|525
+Gabon|Cameroon|349
+Gabon|Republic of the Congo|2567
+Gabon|Equatorial Guinea|345
+Gambia, The|Senegal|749
+Gaza Strip|Egypt|13
+Gaza Strip|Israel|59
+Georgia|Armenia|219
+Georgia|Azerbaijan|428
+Georgia|Russia|894
+Georgia|Turkey|273
+Germany|Austria|801
+Germany|Belgium|133
+Germany|Czechia|704
+Germany|Denmark|140
+Germany|France|418
+Germany|Luxembourg|128
+Germany|Netherlands|575
+Germany|Poland|447
+Germany|Switzerland|348
+Ghana|Burkina Faso|602
+Ghana|Cote d'Ivoire|720
+Ghana|Togo|1098
+Gibraltar|Spain|1.2
+Greece|Albania|212
+Greece|Bulgaria|472
+Greece|North Macedonia|234
+Greece|Turkey|192
+Guatemala|Belize|266
+Guatemala|El Salvador|199
+Guatemala|Honduras|244
+Guatemala|Mexico|958
+Guinea|Cote d'Ivoire|816
+Guinea|Guinea-Bissau|421
+Guinea|Liberia|590
+Guinea|Mali|1062
+Guinea|Senegal|363
+Guinea|Sierra Leone|794
+Guinea-Bissau|Guinea|421
+Guinea-Bissau|Senegal|341
+Guyana|Brazil|1308
+Guyana|Suriname|836
+Guyana|Venezuela|789
+Haiti|Dominican Republic|376
+Holy See (Vatican City)|Italy|3.4
+Honduras|Guatemala|244
+Honduras|El Salvador|391
+Honduras|Nicaragua|940
+Hong Kong|China|33
+Hungary|Austria|321
+Hungary|Croatia|348
+Hungary|Romania|424
+Hungary|Serbia|164
+Hungary|Slovakia|627
+Hungary|Slovenia|94
+Hungary|Ukraine|128
+India|Bangladesh|4142
+India|Bhutan|659
+India|Burma|1468
+India|China|2659
+India|Nepal|1770
+India|Pakistan|3190
+Indonesia|Malaysia|1881
+Indonesia|Papua New Guinea|824
+Indonesia|Timor-Leste|253
+Iran|Afghanistan|921
+Iran|Armenia|44
+Iran|Azerbaijan|689
+Iran|Iraq|1599
+Iran|Pakistan|959
+Iran|Turkey|534
+Iran|Turenistan|1148
+Iraq|Iran|1599
+Iraq|Jordan|179
+Iraq|Kuwait|254
+Iraq|Saudi Arabia|811
+Iraq|Syria|599
+Iraq|Turkey|367
+Ireland|UK|490
+Israel|Egypt|208
+Israel|Gaza Strip|59
+Israel|Jordan|327
+Israel|Lebanon|81
+Israel|Syria|83
+Israel|West Bank|330
+Italy|Austria|404
+Italy|France|476
+Italy|Holy See (Vatican City)|3.4
+Italy|San Marino|37
+Italy|Slovenia|218
+Italy|Switzerland|698
+Jordan|Iraq|179
+Jordan|Israel|307
+Jordan|Saudi Arabia|731
+Jordan|Syria|379
+Jordan|West Bank|148
+Kazakhstan|China|1765
+Kazakhstan|Kyrgyzstan|1212
+Kazakhstan|Russia|7644
+Kazakhstan|Turenistan|413
+Kazakhstan|Uzbekistan|2330
+Kenya|Ethiopia|867
+Kenya|Somalia|684
+Kenya|South Sudan|317
+Kenya|Tanzania|775
+Kenya|Uganda|814
+Korea, North|China|1352
+Korea, North|South Korea|237
+Korea, North|Russia|18
+Korea, South|North Korea|237
+Kosovo|Albania|112
+Kosovo|North Macedonia|160
+Kosovo|Montenegro|76
+Kosovo|Serbia|366
+Kuwait|Iraq|254
+Kuwait|Saudi Arabia|221
+Kyrgyzstan|China|1063
+Kyrgyzstan|Kazakhstan|1212
+Kyrgyzstan|Tajikistan|984
+Kyrgyzstan|Uzbekistan|1314
+Laos|Burma|238
+Laos|Cambodia|555
+Laos|China|475
+Laos|Thailand|1845
+Laos|Vietnam|2161
+Latvia|Belarus|161
+Latvia|Estonia|333
+Latvia|Lithuania|544
+Latvia|Russia|332
+Lebanon|Israel|81
+Lebanon|Syria|403
+Lesotho|South Africa|1106
+Liberia|Guinea|590
+Liberia|Cote d'Ivoire|778
+Liberia|Sierra Leone|299
+Libya|Algeria|989
+Libya|Chad|1050
+Libya|Egypt|1115
+Libya|Niger|342
+Libya|Sudan|382
+Libya|Tunisia|461
+Liechtenstein|Austria|34
+Liechtenstein|Switzerland|41
+Lithuania|Belarus|640
+Lithuania|Latvia|544
+Lithuania|Poland|100
+Lithuania|Russia (Kaliningrad)|261
+Luxembourg|Belgium|130
+Luxembourg|France|69
+Luxembourg|Germany|128
+Macau|China|3
+Malawi|Mozambique|1498
+Malawi|Tanzania|512
+Malawi|Zambia|847
+Malaysia|Brunei|266
+Malaysia|Indonesia|1881
+Malaysia|Thailand|595
+Mali|Algeria|1359
+Mali|Burkina Faso|1325
+Mali|Cote d'Ivoire|599
+Mali|Guinea|1062
+Mali|Mauritania|2236
+Mali|Niger|838
+Mali|Senegal|489
+Mauritania|Algeria|460
+Mauritania|Mali|2236
+Mauritania|Morocco|1564
+Mauritania|Senegal|742
+Mexico|Belize|276
+Mexico|Guatemala|958
+Mexico|US|3155
+Moldova|Romania|683
+Moldova|Ukraine|1202
+Monaco|France|6
+Mongolia|China|4630
+Mongolia|Russia|3452
+Montenegro|Albania|186
+Montenegro|Bosnia and Herzegovina|242
+Montenegro|Croatia|19
+Montenegro|Kosovo|76
+Montenegro|Serbia|157
+Morocco|Algeria|1941
+Morocco|Mauritania|1564
+Morocco|Spain (Ceuta)|8
+Morocco|Spain (Melilla)|10.5
+Mozambique|Malawi|1498
+Mozambique|South Africa|496
+Mozambique|Eswatini|108
+Mozambique|Tanzania|840
+Mozambique|Zambia|439
+Mozambique|Zimbabwe|1402
+Namibia|Angola|1427
+Namibia|Botswana|1544
+Namibia|South Africa|1005
+Namibia|Zambia|244
+Nepal|China|1389
+Nepal|India|1770
+Netherlands|Belgium|478
+Netherlands|Germany|575
+Nicaragua|Costa Rica|313
+Nicaragua|Honduras|940
+Niger|Algeria|951
+Niger|Benin|277
+Niger|Burkina Faso|622
+Niger|Chad|1196
+Niger|Libya|342
+Niger|Mali|838
+Niger|Nigeria|1608
+Nigeria|Benin|809
+Nigeria|Cameroon|1975
+Nigeria|Chad|85
+Nigeria|Niger|1608
+North Macedonia|Albania|181
+North Macedonia|Bulgaria|162
+North Macedonia|Greece|234
+North Macedonia|Kosovo|160
+North Macedonia|Serbia|101
+Norway|Finland|709
+Norway|Sweden|1666
+Norway|Russia|191
+Oman|Saudi Arabia|658
+Oman|UAE|609
+Oman|Yemen|294
+Pakistan|Afghanistan|2670
+Pakistan|China|438
+Pakistan|India|3190
+Pakistan|Iran|959
+Panama|Colombia|339
+Panama|Costa Rica|348
+Papua New Guinea|Indonesia|824
+Paraguay|Argentina|2531
+Paraguay|Bolivia|753
+Paraguay|Brazil|1371
+Peru|Bolivia|1212
+Peru|Brazil|2659
+Peru|Chile|168
+Peru|Colombia|1494
+Peru|Ecuador|1529
+Poland|Belarus|375
+Poland|Czechia|699
+Poland|Germany|467
+Poland|Lithuania|100
+Poland|Russia (Kaliningrad Oblast)|209
+Poland|Slovakia|517
+Poland|Ukraine|498
+Portugal|Spain|1224
+Qatar|Saudi Arabia|87
+Romania|Bulgaria|605
+Romania|Hungary|424
+Romania|Moldova|683
+Romania|Serbia|531
+Romania|Ukraine|601
+Russia|Azerbaijan|338
+Russia|Belarus|1312
+Russia|China (southeast)|4133
+Russia|China (south)|46
+Russia|Estonia|324
+Russia|Finland|1309
+Russia|Georgia|894
+Russia|Kazakhstan|7644
+Russia|North Korea|18
+Russia|Latvia|332
+Russia|Lithuania (Kaliningrad Oblast)|261
+Russia|Mongolia|3452
+Russia|Norway|191
+Russia|Poland (Kaliningrad Oblast)|209
+Russia|Ukraine|1944
+Rwanda|Burundi|315
+Rwanda|Democratic Republic of the Congo|221
+Rwanda|Tanzania|222
+Rwanda|Uganda|172
+Saint Martin|Sint Maarten|16
+San Marino|Italy|37
+Saudi Arabia|Iraq|811
+Saudi Arabia|Jordan|731
+Saudi Arabia|Kuwait|221
+Saudi Arabia|Oman|658
+Saudi Arabia|Qatar|87
+Saudi Arabia|UAE|457
+Saudi Arabia|Yemen|1307
+Senegal|The Gambia|749
+Senegal|Guinea|363
+Senegal|Guinea-Bissau|341
+Senegal|Mali|489
+Senegal|Mauritania|742
+Serbia|Bosnia and Herzegovina|345
+Serbia|Bulgaria|344
+Serbia|Croatia|314
+Serbia|Hungary|164
+Serbia|Kosovo|366
+Serbia|North Macedonia|101
+Serbia|Montenegro|157
+Serbia|Romania|531
+Sierra Leone|Guinea|794
+Sierra Leone|Liberia|299
+Sint Maarten|Saint Martin (France)|16
+Slovakia|Austria|105
+Slovakia|Czechia|241
+Slovakia|Hungary|627
+Slovakia|Poland|517
+Slovakia|Ukraine|97
+Slovenia|Austria|299
+Slovenia|Croatia|600
+Slovenia|Hungary|94
+Slovenia|Italy|218
+Somalia|Djibouti|61
+Somalia|Ethiopia|1640
+Somalia|Kenya|684
+South Africa|Botswana|1969
+South Africa|Lesotho|1106
+South Africa|Mozambique|496
+South Africa|Namibia|1005
+South Africa|Eswatini|438
+South Africa|Zimbabwe|230
+South Sudan|Central African Republic|1055
+South Sudan|Democratic Republic of the Congo|714
+South Sudan|Ethiopia|1299
+South Sudan|Kenya|317
+South Sudan|Sudan|2158
+South Sudan|Uganda|475
+Spain|Andorra|63
+Spain|France|646
+Spain|Gibraltar|1.2
+Spain|Portugal|1224
+Spain|Morocco (Ceuta)|8
+Spain|Morocco (Melilla)|10.5
+Sudan|Central African Republic|174
+Sudan|Chad|1403
+Sudan|Egypt|1276
+Sudan|Eritrea|682
+Sudan|Ethiopia|744
+Sudan|Libya|382
+Sudan|South Sudan|2158
+Suriname|Brazil|515
+Suriname|French Guiana|556
+Suriname|Guyana|836
+Sweden|Finland|545
+Sweden|Norway|1666
+Switzerland|Austria|158
+Switzerland|France|525
+Switzerland|Italy|698
+Switzerland|Liechtenstein|41
+Switzerland|Germany|348
+Syria|Iraq|599
+Syria|Israel|83
+Syria|Jordan|379
+Syria|Lebanon|403
+Syria|Turkey|899
+Tajikistan|Afghanistan|1357
+Tajikistan|China|477
+Tajikistan|Kyrgyzstan|984
+Tajikistan|Uzbekistan|1312
+Tanzania|Burundi|589
+Tanzania|Democratic Republic of the Congo|479
+Tanzania|Kenya|775
+Tanzania|Malawi|512
+Tanzania|Mozambique|840
+Tanzania|Rwanda|222
+Tanzania|Uganda|391
+Tanzania|Zambia|353
+Thailand|Burma|2416
+Thailand|Cambodia|817
+Thailand|Laos|1845
+Thailand|Malaysia|595
+Timor-Leste|Indonesia|253
+Togo|Benin|651
+Togo|Burkina Faso|131
+Togo|Ghana|1098
+Tunisia|Algeria|1034
+Tunisia|Libya|461
+Turkey (Turkiye)|Armenia|311
+Turkey (Turkiye)|Azerbaijan|17
+Turkey (Turkiye)|Bulgaria|223
+Turkey (Turkiye)|Georgia|273
+Turkey (Turkiye)|Greece|192
+Turkey (Turkiye)|Iran|534
+Turkey (Turkiye)|Iraq|367
+Turkey (Turkiye)|Syria|899
+Turkmenistan|Afghanistan|804
+Turkmenistan|Iran|1148
+Turkmenistan|Kazakhstan|413
+Turkmenistan|Uzbekistan|1793
+Uganda|Democratic Republic of the Congo|877
+Uganda|Kenya|814
+Uganda|Rwanda|172
+Uganda|South Sudan|475
+Uganda|Tanzania|391
+Ukraine|Belarus|1111
+Ukraine|Hungary|128
+Ukraine|Moldova|1202
+Ukraine|Poland|498
+Ukraine|Romania|601
+Ukraine|Russia|1944
+Ukraine|Slovakia|97
+United Arab Emirates|Oman|609
+United Arab Emirates|Saudi Arabia|457
+United Kingdom|Ireland|499
+United States|Canada|8891
+United States|Mexico|3111
+Uruguay|Argentina|541
+Uruguay|Brazil|1050
+Uzbekistan|Afghanistan|144
+Uzbekistan|Kazakhstan|2330
+Uzbekistan|Kyrgyzstan|1314
+Uzbekistan|Tajikistan|1312
+Uzbekistan|Turenistan|1793
+Venezuela|Brazil|2137
+Venezuela|Colombia|2341
+Venezuela|Guyana|789
+Vietnam|Cambodia|1158
+Vietnam|China|1297
+Vietnam|Laos|2161
+West Bank|Israel|330
+West Bank|Jordan|148
+Yemen|Oman|294
+Yemen|Saudi Arabia|1307
+Zambia|Angola|1065
+Zambia|Botswana|0.15
+Zambia|Democratic Republic of the Congo|2332
+Zambia|Malawi|847
+Zambia|Mozambique|439
+Zambia|Namibia|244
+Zambia|Tanzania|353
+Zambia|Zimbabwe|763
+Zimbabwe|Botswana|834
+Zimbabwe|Mozambique|1402
+Zimbabwe|South Africa|230
+Zimbabwe|Zambia|763
